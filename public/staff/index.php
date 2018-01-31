@@ -4,6 +4,7 @@
   <head>
     <title>GBI</title>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="/globe_bank/public/stylesheets/staff.css" type="text/css">
   </head>
 
   <body>
