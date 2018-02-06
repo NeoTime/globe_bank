@@ -1,6 +1,6 @@
 <?php
-if(!isset($page_title)) { $page_title = 'Staff Area';}
- ?>
+  if(!isset($page_title)) { $page_title = 'Staff Area'; }
+?>
 
 <!doctype html>
 
@@ -13,7 +13,7 @@ if(!isset($page_title)) { $page_title = 'Staff Area';}
 
   <body>
     <header>
-    </h1>GBI Staff Area</h1>
+      <h1>GBI Staff Area</h1>
     </header>
 
     <navigation>
