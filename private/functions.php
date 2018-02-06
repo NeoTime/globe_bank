@@ -1,4 +1,5 @@
 <?php
+
 function url_for($script_path) {
   // add the leading '/' if not present
   if($script_path[0] != '/') {
@@ -8,13 +9,11 @@ function url_for($script_path) {
 }
 
 function u($string="") {
-return urlencode($string);
-
+  return urlencode($string);
 }
 
 function raw_u($string="") {
-return rawurlencode($string);
-
+  return rawurlencode($string);
 }
 
 function h($string="") {
